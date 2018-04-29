@@ -3,3 +3,4 @@ the second step
 the thrid step
 add master
 feature1
+--no-ff
